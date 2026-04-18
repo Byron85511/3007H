@@ -1,0 +1,174 @@
+{
+  "tests": 24,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "IndexedVector",
+      "tests": 4,
+      "testsuite": [
+        {
+          "name": "AddTracksNonZeros",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_indexed_vector.cpp",
+          "line": 7
+        },
+        {
+          "name": "AddingZeroDoesNotInflateNnz",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_indexed_vector.cpp",
+          "line": 16
+        },
+        {
+          "name": "ClearResetsInvariant",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_indexed_vector.cpp",
+          "line": 22
+        },
+        {
+          "name": "AccumulationIsCorrect",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_indexed_vector.cpp",
+          "line": 32
+        }
+      ]
+    },
+    {
+      "name": "DualSimplex",
+      "tests": 4,
+      "testsuite": [
+        {
+          "name": "SlackOptimalImmediately",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_dual_simplex.cpp",
+          "line": 13
+        },
+        {
+          "name": "OneNegativeSlackPivots",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_dual_simplex.cpp",
+          "line": 40
+        },
+        {
+          "name": "DualSteepestEdgeMatchesNaiveOnTiny",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_dual_simplex.cpp",
+          "line": 67
+        },
+        {
+          "name": "ReportsDualInfeasibleWhenNoLeavingRowButNegativeReducedCosts",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_dual_simplex.cpp",
+          "line": 102
+        }
+      ]
+    },
+    {
+      "name": "GilbertPeierls",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "ManualExampleTopologicalOrder",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_gilbert_peierls.cpp",
+          "line": 8
+        }
+      ]
+    },
+    {
+      "name": "Presolve",
+      "tests": 2,
+      "testsuite": [
+        {
+          "name": "DetectsEmptyRowInconsistency",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_presolve.cpp",
+          "line": 9
+        },
+        {
+          "name": "DetectsUnboundedEmptyColumn",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_presolve.cpp",
+          "line": 21
+        }
+      ]
+    },
+    {
+      "name": "BigM",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "DualFeasibleNegativeSlackStillOptimizes",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_big_m.cpp",
+          "line": 14
+        }
+      ]
+    },
+    {
+      "name": "AllBackends\/BasisFactorContract",
+      "tests": 12,
+      "testsuite": [
+        {
+          "name": "FactorisesDiagonalMatrix\/Eigen",
+          "value_param": "4-byte object <00-00 00-00>",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_basis_factor_contract.cpp",
+          "line": 13
+        },
+        {
+          "name": "FactorisesDiagonalMatrix\/Umfpack",
+          "value_param": "4-byte object <01-00 00-00>",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_basis_factor_contract.cpp",
+          "line": 13
+        },
+        {
+          "name": "FtranSolvesCorrectly\/Eigen",
+          "value_param": "4-byte object <00-00 00-00>",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_basis_factor_contract.cpp",
+          "line": 23
+        },
+        {
+          "name": "FtranSolvesCorrectly\/Umfpack",
+          "value_param": "4-byte object <01-00 00-00>",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_basis_factor_contract.cpp",
+          "line": 23
+        },
+        {
+          "name": "BtranSolvesCorrectly\/Eigen",
+          "value_param": "4-byte object <00-00 00-00>",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_basis_factor_contract.cpp",
+          "line": 44
+        },
+        {
+          "name": "BtranSolvesCorrectly\/Umfpack",
+          "value_param": "4-byte object <01-00 00-00>",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_basis_factor_contract.cpp",
+          "line": 44
+        },
+        {
+          "name": "ReturnsFalseForSingularMatrix\/Eigen",
+          "value_param": "4-byte object <00-00 00-00>",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_basis_factor_contract.cpp",
+          "line": 65
+        },
+        {
+          "name": "ReturnsFalseForSingularMatrix\/Umfpack",
+          "value_param": "4-byte object <01-00 00-00>",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_basis_factor_contract.cpp",
+          "line": 65
+        },
+        {
+          "name": "FtranBtranDense3x3MatchesReference\/Eigen",
+          "value_param": "4-byte object <00-00 00-00>",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_basis_factor_contract.cpp",
+          "line": 79
+        },
+        {
+          "name": "FtranBtranDense3x3MatchesReference\/Umfpack",
+          "value_param": "4-byte object <01-00 00-00>",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_basis_factor_contract.cpp",
+          "line": 79
+        },
+        {
+          "name": "EtaFileMatchesExplicitBasisUpdate\/Eigen",
+          "value_param": "4-byte object <00-00 00-00>",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_basis_factor_contract.cpp",
+          "line": 117
+        },
+        {
+          "name": "EtaFileMatchesExplicitBasisUpdate\/Umfpack",
+          "value_param": "4-byte object <01-00 00-00>",
+          "file": "\/Users\/lilliansun\/CUHKSZ\/Y2\/T2\/MAT3007H\/project\/mat3007h_project\/tests\/test_basis_factor_contract.cpp",
+          "line": 117
+        }
+      ]
+    }
+  ]
+}

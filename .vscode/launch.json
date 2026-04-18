@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug lp_solver_tests",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/build/lp_solver_tests",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "preLaunchTask": "Build"
+    }
+  ]
+}

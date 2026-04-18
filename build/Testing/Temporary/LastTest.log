@@ -1,0 +1,667 @@
+Start testing: Apr 17 22:32 CST
+----------------------------------------------------------
+1/25 Testing: IndexedVector.AddTracksNonZeros
+1/25 Test: IndexedVector.AddTracksNonZeros
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=IndexedVector.AddTracksNonZeros" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"IndexedVector.AddTracksNonZeros" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IndexedVector.AddTracksNonZeros
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IndexedVector
+[ RUN      ] IndexedVector.AddTracksNonZeros
+[       OK ] IndexedVector.AddTracksNonZeros (0 ms)
+[----------] 1 test from IndexedVector (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"IndexedVector.AddTracksNonZeros" end time: Apr 17 22:32 CST
+"IndexedVector.AddTracksNonZeros" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/25 Testing: IndexedVector.AddingZeroDoesNotInflateNnz
+2/25 Test: IndexedVector.AddingZeroDoesNotInflateNnz
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=IndexedVector.AddingZeroDoesNotInflateNnz" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"IndexedVector.AddingZeroDoesNotInflateNnz" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IndexedVector.AddingZeroDoesNotInflateNnz
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IndexedVector
+[ RUN      ] IndexedVector.AddingZeroDoesNotInflateNnz
+[       OK ] IndexedVector.AddingZeroDoesNotInflateNnz (0 ms)
+[----------] 1 test from IndexedVector (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"IndexedVector.AddingZeroDoesNotInflateNnz" end time: Apr 17 22:32 CST
+"IndexedVector.AddingZeroDoesNotInflateNnz" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/25 Testing: IndexedVector.ClearResetsInvariant
+3/25 Test: IndexedVector.ClearResetsInvariant
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=IndexedVector.ClearResetsInvariant" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"IndexedVector.ClearResetsInvariant" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IndexedVector.ClearResetsInvariant
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IndexedVector
+[ RUN      ] IndexedVector.ClearResetsInvariant
+[       OK ] IndexedVector.ClearResetsInvariant (0 ms)
+[----------] 1 test from IndexedVector (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"IndexedVector.ClearResetsInvariant" end time: Apr 17 22:32 CST
+"IndexedVector.ClearResetsInvariant" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/25 Testing: IndexedVector.AccumulationIsCorrect
+4/25 Test: IndexedVector.AccumulationIsCorrect
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=IndexedVector.AccumulationIsCorrect" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"IndexedVector.AccumulationIsCorrect" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IndexedVector.AccumulationIsCorrect
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IndexedVector
+[ RUN      ] IndexedVector.AccumulationIsCorrect
+[       OK ] IndexedVector.AccumulationIsCorrect (0 ms)
+[----------] 1 test from IndexedVector (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"IndexedVector.AccumulationIsCorrect" end time: Apr 17 22:32 CST
+"IndexedVector.AccumulationIsCorrect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/25 Testing: DualSimplex.SlackOptimalImmediately
+5/25 Test: DualSimplex.SlackOptimalImmediately
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=DualSimplex.SlackOptimalImmediately" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"DualSimplex.SlackOptimalImmediately" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DualSimplex.SlackOptimalImmediately
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DualSimplex
+[ RUN      ] DualSimplex.SlackOptimalImmediately
+[       OK ] DualSimplex.SlackOptimalImmediately (0 ms)
+[----------] 1 test from DualSimplex (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DualSimplex.SlackOptimalImmediately" end time: Apr 17 22:32 CST
+"DualSimplex.SlackOptimalImmediately" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/25 Testing: DualSimplex.OneNegativeSlackPivots
+6/25 Test: DualSimplex.OneNegativeSlackPivots
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=DualSimplex.OneNegativeSlackPivots" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"DualSimplex.OneNegativeSlackPivots" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DualSimplex.OneNegativeSlackPivots
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DualSimplex
+[ RUN      ] DualSimplex.OneNegativeSlackPivots
+[       OK ] DualSimplex.OneNegativeSlackPivots (0 ms)
+[----------] 1 test from DualSimplex (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DualSimplex.OneNegativeSlackPivots" end time: Apr 17 22:32 CST
+"DualSimplex.OneNegativeSlackPivots" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/25 Testing: DualSimplex.DualSteepestEdgeMatchesNaiveOnTiny
+7/25 Test: DualSimplex.DualSteepestEdgeMatchesNaiveOnTiny
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=DualSimplex.DualSteepestEdgeMatchesNaiveOnTiny" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"DualSimplex.DualSteepestEdgeMatchesNaiveOnTiny" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DualSimplex.DualSteepestEdgeMatchesNaiveOnTiny
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DualSimplex
+[ RUN      ] DualSimplex.DualSteepestEdgeMatchesNaiveOnTiny
+[       OK ] DualSimplex.DualSteepestEdgeMatchesNaiveOnTiny (0 ms)
+[----------] 1 test from DualSimplex (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DualSimplex.DualSteepestEdgeMatchesNaiveOnTiny" end time: Apr 17 22:32 CST
+"DualSimplex.DualSteepestEdgeMatchesNaiveOnTiny" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/25 Testing: DualSimplex.ReportsDualInfeasibleWhenNoLeavingRowButNegativeReducedCosts
+8/25 Test: DualSimplex.ReportsDualInfeasibleWhenNoLeavingRowButNegativeReducedCosts
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=DualSimplex.ReportsDualInfeasibleWhenNoLeavingRowButNegativeReducedCosts" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"DualSimplex.ReportsDualInfeasibleWhenNoLeavingRowButNegativeReducedCosts" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DualSimplex.ReportsDualInfeasibleWhenNoLeavingRowButNegativeReducedCosts
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DualSimplex
+[ RUN      ] DualSimplex.ReportsDualInfeasibleWhenNoLeavingRowButNegativeReducedCosts
+[       OK ] DualSimplex.ReportsDualInfeasibleWhenNoLeavingRowButNegativeReducedCosts (0 ms)
+[----------] 1 test from DualSimplex (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DualSimplex.ReportsDualInfeasibleWhenNoLeavingRowButNegativeReducedCosts" end time: Apr 17 22:32 CST
+"DualSimplex.ReportsDualInfeasibleWhenNoLeavingRowButNegativeReducedCosts" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/25 Testing: GilbertPeierls.ManualExampleTopologicalOrder
+9/25 Test: GilbertPeierls.ManualExampleTopologicalOrder
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=GilbertPeierls.ManualExampleTopologicalOrder" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"GilbertPeierls.ManualExampleTopologicalOrder" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GilbertPeierls.ManualExampleTopologicalOrder
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GilbertPeierls
+[ RUN      ] GilbertPeierls.ManualExampleTopologicalOrder
+[       OK ] GilbertPeierls.ManualExampleTopologicalOrder (0 ms)
+[----------] 1 test from GilbertPeierls (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"GilbertPeierls.ManualExampleTopologicalOrder" end time: Apr 17 22:32 CST
+"GilbertPeierls.ManualExampleTopologicalOrder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/25 Testing: Presolve.DetectsEmptyRowInconsistency
+10/25 Test: Presolve.DetectsEmptyRowInconsistency
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=Presolve.DetectsEmptyRowInconsistency" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"Presolve.DetectsEmptyRowInconsistency" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Presolve.DetectsEmptyRowInconsistency
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Presolve
+[ RUN      ] Presolve.DetectsEmptyRowInconsistency
+[       OK ] Presolve.DetectsEmptyRowInconsistency (0 ms)
+[----------] 1 test from Presolve (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Presolve.DetectsEmptyRowInconsistency" end time: Apr 17 22:32 CST
+"Presolve.DetectsEmptyRowInconsistency" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/25 Testing: Presolve.DetectsUnboundedEmptyColumn
+11/25 Test: Presolve.DetectsUnboundedEmptyColumn
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=Presolve.DetectsUnboundedEmptyColumn" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"Presolve.DetectsUnboundedEmptyColumn" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Presolve.DetectsUnboundedEmptyColumn
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Presolve
+[ RUN      ] Presolve.DetectsUnboundedEmptyColumn
+[       OK ] Presolve.DetectsUnboundedEmptyColumn (0 ms)
+[----------] 1 test from Presolve (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Presolve.DetectsUnboundedEmptyColumn" end time: Apr 17 22:32 CST
+"Presolve.DetectsUnboundedEmptyColumn" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/25 Testing: BigM.DualFeasibleNegativeSlackStillOptimizes
+12/25 Test: BigM.DualFeasibleNegativeSlackStillOptimizes
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=BigM.DualFeasibleNegativeSlackStillOptimizes" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"BigM.DualFeasibleNegativeSlackStillOptimizes" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BigM.DualFeasibleNegativeSlackStillOptimizes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BigM
+[ RUN      ] BigM.DualFeasibleNegativeSlackStillOptimizes
+[       OK ] BigM.DualFeasibleNegativeSlackStillOptimizes (0 ms)
+[----------] 1 test from BigM (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BigM.DualFeasibleNegativeSlackStillOptimizes" end time: Apr 17 22:32 CST
+"BigM.DualFeasibleNegativeSlackStillOptimizes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/25 Testing: AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/4-byte object <00-00 00-00>
+13/25 Test: AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/4-byte object <00-00 00-00>
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/Eigen" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/4-byte object <00-00 00-00>" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/Eigen
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllBackends/BasisFactorContract
+[ RUN      ] AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/Eigen
+[       OK ] AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/Eigen (0 ms)
+[----------] 1 test from AllBackends/BasisFactorContract (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/4-byte object <00-00 00-00>" end time: Apr 17 22:32 CST
+"AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/4-byte object <00-00 00-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/25 Testing: AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/4-byte object <01-00 00-00>
+14/25 Test: AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/4-byte object <01-00 00-00>
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/Umfpack" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/4-byte object <01-00 00-00>" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/Umfpack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllBackends/BasisFactorContract
+[ RUN      ] AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/Umfpack
+[       OK ] AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/Umfpack (0 ms)
+[----------] 1 test from AllBackends/BasisFactorContract (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/4-byte object <01-00 00-00>" end time: Apr 17 22:32 CST
+"AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/4-byte object <01-00 00-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/25 Testing: AllBackends/BasisFactorContract.FtranSolvesCorrectly/4-byte object <00-00 00-00>
+15/25 Test: AllBackends/BasisFactorContract.FtranSolvesCorrectly/4-byte object <00-00 00-00>
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=AllBackends/BasisFactorContract.FtranSolvesCorrectly/Eigen" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"AllBackends/BasisFactorContract.FtranSolvesCorrectly/4-byte object <00-00 00-00>" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AllBackends/BasisFactorContract.FtranSolvesCorrectly/Eigen
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllBackends/BasisFactorContract
+[ RUN      ] AllBackends/BasisFactorContract.FtranSolvesCorrectly/Eigen
+[       OK ] AllBackends/BasisFactorContract.FtranSolvesCorrectly/Eigen (0 ms)
+[----------] 1 test from AllBackends/BasisFactorContract (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AllBackends/BasisFactorContract.FtranSolvesCorrectly/4-byte object <00-00 00-00>" end time: Apr 17 22:32 CST
+"AllBackends/BasisFactorContract.FtranSolvesCorrectly/4-byte object <00-00 00-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/25 Testing: AllBackends/BasisFactorContract.FtranSolvesCorrectly/4-byte object <01-00 00-00>
+16/25 Test: AllBackends/BasisFactorContract.FtranSolvesCorrectly/4-byte object <01-00 00-00>
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=AllBackends/BasisFactorContract.FtranSolvesCorrectly/Umfpack" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"AllBackends/BasisFactorContract.FtranSolvesCorrectly/4-byte object <01-00 00-00>" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AllBackends/BasisFactorContract.FtranSolvesCorrectly/Umfpack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllBackends/BasisFactorContract
+[ RUN      ] AllBackends/BasisFactorContract.FtranSolvesCorrectly/Umfpack
+[       OK ] AllBackends/BasisFactorContract.FtranSolvesCorrectly/Umfpack (0 ms)
+[----------] 1 test from AllBackends/BasisFactorContract (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AllBackends/BasisFactorContract.FtranSolvesCorrectly/4-byte object <01-00 00-00>" end time: Apr 17 22:32 CST
+"AllBackends/BasisFactorContract.FtranSolvesCorrectly/4-byte object <01-00 00-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/25 Testing: AllBackends/BasisFactorContract.BtranSolvesCorrectly/4-byte object <00-00 00-00>
+17/25 Test: AllBackends/BasisFactorContract.BtranSolvesCorrectly/4-byte object <00-00 00-00>
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=AllBackends/BasisFactorContract.BtranSolvesCorrectly/Eigen" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"AllBackends/BasisFactorContract.BtranSolvesCorrectly/4-byte object <00-00 00-00>" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AllBackends/BasisFactorContract.BtranSolvesCorrectly/Eigen
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllBackends/BasisFactorContract
+[ RUN      ] AllBackends/BasisFactorContract.BtranSolvesCorrectly/Eigen
+[       OK ] AllBackends/BasisFactorContract.BtranSolvesCorrectly/Eigen (0 ms)
+[----------] 1 test from AllBackends/BasisFactorContract (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AllBackends/BasisFactorContract.BtranSolvesCorrectly/4-byte object <00-00 00-00>" end time: Apr 17 22:32 CST
+"AllBackends/BasisFactorContract.BtranSolvesCorrectly/4-byte object <00-00 00-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/25 Testing: AllBackends/BasisFactorContract.BtranSolvesCorrectly/4-byte object <01-00 00-00>
+18/25 Test: AllBackends/BasisFactorContract.BtranSolvesCorrectly/4-byte object <01-00 00-00>
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=AllBackends/BasisFactorContract.BtranSolvesCorrectly/Umfpack" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"AllBackends/BasisFactorContract.BtranSolvesCorrectly/4-byte object <01-00 00-00>" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AllBackends/BasisFactorContract.BtranSolvesCorrectly/Umfpack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllBackends/BasisFactorContract
+[ RUN      ] AllBackends/BasisFactorContract.BtranSolvesCorrectly/Umfpack
+[       OK ] AllBackends/BasisFactorContract.BtranSolvesCorrectly/Umfpack (0 ms)
+[----------] 1 test from AllBackends/BasisFactorContract (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AllBackends/BasisFactorContract.BtranSolvesCorrectly/4-byte object <01-00 00-00>" end time: Apr 17 22:32 CST
+"AllBackends/BasisFactorContract.BtranSolvesCorrectly/4-byte object <01-00 00-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/25 Testing: AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/4-byte object <00-00 00-00>
+19/25 Test: AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/4-byte object <00-00 00-00>
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/Eigen" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/4-byte object <00-00 00-00>" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/Eigen
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllBackends/BasisFactorContract
+[ RUN      ] AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/Eigen
+[       OK ] AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/Eigen (0 ms)
+[----------] 1 test from AllBackends/BasisFactorContract (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/4-byte object <00-00 00-00>" end time: Apr 17 22:32 CST
+"AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/4-byte object <00-00 00-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/25 Testing: AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/4-byte object <01-00 00-00>
+20/25 Test: AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/4-byte object <01-00 00-00>
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/Umfpack" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/4-byte object <01-00 00-00>" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/Umfpack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllBackends/BasisFactorContract
+[ RUN      ] AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/Umfpack
+[       OK ] AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/Umfpack (0 ms)
+[----------] 1 test from AllBackends/BasisFactorContract (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/4-byte object <01-00 00-00>" end time: Apr 17 22:32 CST
+"AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/4-byte object <01-00 00-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/25 Testing: AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/4-byte object <00-00 00-00>
+21/25 Test: AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/4-byte object <00-00 00-00>
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/Eigen" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/4-byte object <00-00 00-00>" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/Eigen
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllBackends/BasisFactorContract
+[ RUN      ] AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/Eigen
+[       OK ] AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/Eigen (0 ms)
+[----------] 1 test from AllBackends/BasisFactorContract (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/4-byte object <00-00 00-00>" end time: Apr 17 22:32 CST
+"AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/4-byte object <00-00 00-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/25 Testing: AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/4-byte object <01-00 00-00>
+22/25 Test: AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/4-byte object <01-00 00-00>
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/Umfpack" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/4-byte object <01-00 00-00>" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/Umfpack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllBackends/BasisFactorContract
+[ RUN      ] AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/Umfpack
+[       OK ] AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/Umfpack (0 ms)
+[----------] 1 test from AllBackends/BasisFactorContract (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/4-byte object <01-00 00-00>" end time: Apr 17 22:32 CST
+"AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/4-byte object <01-00 00-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/25 Testing: AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/4-byte object <00-00 00-00>
+23/25 Test: AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/4-byte object <00-00 00-00>
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/Eigen" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/4-byte object <00-00 00-00>" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/Eigen
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllBackends/BasisFactorContract
+[ RUN      ] AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/Eigen
+[       OK ] AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/Eigen (0 ms)
+[----------] 1 test from AllBackends/BasisFactorContract (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/4-byte object <00-00 00-00>" end time: Apr 17 22:32 CST
+"AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/4-byte object <00-00 00-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/25 Testing: AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/4-byte object <01-00 00-00>
+24/25 Test: AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/4-byte object <01-00 00-00>
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests" "--gtest_filter=AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/Umfpack" "--gtest_also_run_disabled_tests"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/4-byte object <01-00 00-00>" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/Umfpack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AllBackends/BasisFactorContract
+[ RUN      ] AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/Umfpack
+[       OK ] AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/Umfpack (0 ms)
+[----------] 1 test from AllBackends/BasisFactorContract (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/4-byte object <01-00 00-00>" end time: Apr 17 22:32 CST
+"AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/4-byte object <01-00 00-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/25 Testing: lp_solver_stress_smoke
+25/25 Test: lp_solver_stress_smoke
+Command: "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_stress" "--dim" "200" "--iters" "200" "--seed" "42"
+Directory: /Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build
+"lp_solver_stress_smoke" start time: Apr 17 22:32 CST
+Output:
+----------------------------------------------------------
+[stress] dim=1000 iters=2000 total_us=999250 avg_iter_us=499.625 worst_error=0
+<end of output>
+Test time =   1.33 sec
+----------------------------------------------------------
+Test Passed.
+"lp_solver_stress_smoke" end time: Apr 17 22:32 CST
+"lp_solver_stress_smoke" time elapsed: 00:00:01
+----------------------------------------------------------
+
+End testing: Apr 17 22:32 CST

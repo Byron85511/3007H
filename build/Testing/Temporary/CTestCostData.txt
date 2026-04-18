@@ -1,0 +1,26 @@
+IndexedVector.AddTracksNonZeros 5 0.00227963
+IndexedVector.AddingZeroDoesNotInflateNnz 5 0.00232663
+IndexedVector.ClearResetsInvariant 5 0.00223593
+IndexedVector.AccumulationIsCorrect 5 0.00221723
+AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/4-byte object <00-00 00-00> 6 0.00189168
+AllBackends/BasisFactorContract.FactorisesDiagonalMatrix/4-byte object <01-00 00-00> 6 0.00190126
+AllBackends/BasisFactorContract.FtranSolvesCorrectly/4-byte object <00-00 00-00> 6 0.00191953
+AllBackends/BasisFactorContract.FtranSolvesCorrectly/4-byte object <01-00 00-00> 6 0.00188037
+AllBackends/BasisFactorContract.BtranSolvesCorrectly/4-byte object <00-00 00-00> 6 0.00188233
+AllBackends/BasisFactorContract.BtranSolvesCorrectly/4-byte object <01-00 00-00> 6 0.00191263
+AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/4-byte object <00-00 00-00> 6 0.00192131
+AllBackends/BasisFactorContract.ReturnsFalseForSingularMatrix/4-byte object <01-00 00-00> 6 0.00193651
+lp_solver_stress_smoke 5 0.265524
+AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/4-byte object <00-00 00-00> 5 0.00233964
+AllBackends/BasisFactorContract.FtranBtranDense3x3MatchesReference/4-byte object <01-00 00-00> 5 0.00232314
+AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/4-byte object <00-00 00-00> 5 0.00226541
+AllBackends/BasisFactorContract.EtaFileMatchesExplicitBasisUpdate/4-byte object <01-00 00-00> 5 0.0022808
+DualSimplex.SlackOptimalImmediately 3 0.00389106
+DualSimplex.OneNegativeSlackPivots 3 0.00362254
+DualSimplex.DualSteepestEdgeMatchesNaiveOnTiny 2 0.00581123
+GilbertPeierls.ManualExampleTopologicalOrder 2 0.00561248
+Presolve.DetectsEmptyRowInconsistency 2 0.00558094
+Presolve.DetectsUnboundedEmptyColumn 2 0.0056235
+BigM.DualFeasibleNegativeSlackStillOptimizes 2 0.00560992
+DualSimplex.ReportsDualInfeasibleWhenNoLeavingRowButNegativeReducedCosts 1 0.0116277
+---

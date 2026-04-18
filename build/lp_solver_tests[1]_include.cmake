@@ -1,0 +1,5 @@
+if(EXISTS "/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests[1]_tests.cmake")
+  include("/Users/lilliansun/CUHKSZ/Y2/T2/MAT3007H/project/mat3007h_project/build/lp_solver_tests[1]_tests.cmake")
+else()
+  add_test(lp_solver_tests_NOT_BUILT lp_solver_tests_NOT_BUILT)
+endif()
